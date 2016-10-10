@@ -2,6 +2,7 @@ var hierarchy =
 [
     [ "Flurry(ForceLoad)", "category_flurry_07_force_load_08.html", null ],
     [ "FlurryAds(ForceLoad)", "category_flurry_ads_07_force_load_08.html", null ],
+    [ "FlurryWatch(ForceLoad)", "category_flurry_watch_07_force_load_08.html", null ],
     [ "NSObject", null, [
       [ "Flurry", "interface_flurry.html", null ],
       [ "FlurryAdBanner", "interface_flurry_ad_banner.html", null ],
@@ -12,6 +13,7 @@ var hierarchy =
       [ "FlurryAds", "interface_flurry_ads.html", null ],
       [ "FlurryAdTargeting", "interface_flurry_ad_targeting.html", null ],
       [ "FlurryImageShareParameters", "interface_flurry_image_share_parameters.html", null ],
+      [ "FlurrySessionBuilder", "interface_flurry_session_builder.html", null ],
       [ "FlurryTextShareParameters", "interface_flurry_text_share_parameters.html", null ],
       [ "FlurryTumblr", "interface_flurry_tumblr.html", null ],
       [ "FlurryWatch", "interface_flurry_watch.html", null ]

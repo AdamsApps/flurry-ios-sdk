@@ -16,9 +16,11 @@ var annotated =
     [ "FlurryAdTargeting", "interface_flurry_ad_targeting.html", "interface_flurry_ad_targeting" ],
     [ "<FlurryDelegate>", "protocol_flurry_delegate-p.html", "protocol_flurry_delegate-p" ],
     [ "FlurryImageShareParameters", "interface_flurry_image_share_parameters.html", "interface_flurry_image_share_parameters" ],
+    [ "FlurrySessionBuilder", "interface_flurry_session_builder.html", "interface_flurry_session_builder" ],
     [ "FlurryTextShareParameters", "interface_flurry_text_share_parameters.html", "interface_flurry_text_share_parameters" ],
     [ "FlurryTumblr", "interface_flurry_tumblr.html", null ],
     [ "<FlurryTumblrDelegate>", "protocol_flurry_tumblr_delegate-p.html", "protocol_flurry_tumblr_delegate-p" ],
     [ "FlurryWatch", "interface_flurry_watch.html", null ],
+    [ "FlurryWatch(ForceLoad)", "category_flurry_watch_07_force_load_08.html", null ],
     [ "<IFlurryTumblrShareParameters>", "protocol_i_flurry_tumblr_share_parameters-p.html", "protocol_i_flurry_tumblr_share_parameters-p" ]
 ];
